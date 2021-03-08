@@ -12,7 +12,8 @@ This mod allowed you to make your workbeach more useful and powerful. Make your 
 ### What you needed
 - Minecraft 1.16.4 +
 - FabricLoader: 0.31.0 + 
+- Fabric API: Any
 
 ### Downloads
-- MCBBS Link: 
-- Github Releases: https://github.com/TROU2004/Benchworks/Releases
+- MCBBS Link: https://www.mcbbs.net/thread-1180156-1-1.html
+- Github Releases: https://github.com/TROU2004/Benchworks/releases
