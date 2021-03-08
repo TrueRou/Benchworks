@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "benchworks",
+  "version": "${version}",
+
+  "name": "Benchworks",
+  "description": "Make Workbench work",
+  "authors": [
+    "TuRou"
+  ],
+  "contact": {
+    "homepage": "https://github.com/TROU2004/Benchworks",
+    "sources": "https://github.com/TROU2004/Benchworks"
+  },
+
+  "license": "CC0-1.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "trou.benchworks.Benchworks"
+    ]
+  },
+  "mixins": [
+    "benchworks.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

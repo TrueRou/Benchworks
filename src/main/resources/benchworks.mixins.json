@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "trou.benchworks.mixin.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CraftingInventoryMixin",
+    "CraftingTableMixin",
+    "CraftingScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
